@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7017995b6484742b94d61c33c4bc79, type: 3}
+  m_Name: BK31_Audio (10)
+  m_EditorClassIdentifier: 
+  rusCaption: "\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0433\u0438\u0431\u0435\u043B\u0438
+    \u0411\u041A-31 <br>(\u0447\u0430\u0441\u0442\u044C \u043F\u0435\u0440\u0432\u0430\u044F)"
+  engCaption: "History of the\_BK-31\_death\_ "
+  ico: {fileID: 21300000, guid: c68c4d8847514c94f859bdee6f693cee, type: 3}
+  rusClip: {fileID: 8300000, guid: 98e131126f0e7cb4eb7312062e92c103, type: 3}
+  engClip: {fileID: 8300000, guid: 2dbd4661e5688d5419e5323cba9d59ee, type: 3}

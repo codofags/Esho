@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cf3a0b207dfcb4bbe7904aef507ef3, type: 3}
+  m_Name: BK31_Video_14
+  m_EditorClassIdentifier: 
+  rusCaption: "\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0447\u043B\u0435\u043D\u043E\u0432
+    \u044D\u043A\u0438\u043F\u0430\u0436\u0430"
+  engCaption: Crew history
+  ico: {fileID: 21300000, guid: f93a0510b0dd0cd4f9cc31a465ea8954, type: 3}
+  clip: {fileID: 32900000, guid: dc8f1f383df98b541bd724d6417b196c, type: 3}
+  _audio: {fileID: 8300000, guid: 3c2e63130f3c77c4e96192b0480c5e53, type: 3}

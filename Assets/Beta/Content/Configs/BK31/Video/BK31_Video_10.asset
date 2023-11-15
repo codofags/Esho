@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cf3a0b207dfcb4bbe7904aef507ef3, type: 3}
+  m_Name: BK31_Video_10
+  m_EditorClassIdentifier: 
+  rusCaption: "\u041F\u0440\u0438\u0447\u0438\u043D\u044B \u043F\u043E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u044F
+    \u0431\u0440\u043E\u043D\u0435\u043A\u0430\u0442\u0435\u0440\u0430"
+  engCaption: 'Reasons for the sinking of an armored boat '
+  ico: {fileID: 21300000, guid: 74c46e61dd7aa9143b2c354fca599560, type: 3}
+  clip: {fileID: 32900000, guid: e391527f5f4a8504db00ab8f2d2c29c4, type: 3}
+  _audio: {fileID: 8300000, guid: e9e945ff7a1e8cd438a4afcf09686087, type: 3}

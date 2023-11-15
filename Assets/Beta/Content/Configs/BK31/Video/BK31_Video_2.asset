@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cf3a0b207dfcb4bbe7904aef507ef3, type: 3}
+  m_Name: BK31_Video_2
+  m_EditorClassIdentifier: 
+  rusCaption: "\u0420\u043E\u043B\u044C \u0431\u0440\u043E\u043D\u0435\u043A\u0430\u0442\u0435\u0440\u043E\u0432"
+  engCaption: The role of armored boats
+  ico: {fileID: 21300000, guid: c9b116d4df6518a44a8ee75241fbd10f, type: 3}
+  clip: {fileID: 32900000, guid: e1b3354e8b9f74a40be3142a2cd9b6e6, type: 3}
+  _audio: {fileID: 8300000, guid: 4c80418f2011f544288699144879c176, type: 3}

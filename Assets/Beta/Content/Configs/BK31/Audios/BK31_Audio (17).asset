@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7017995b6484742b94d61c33c4bc79, type: 3}
+  m_Name: BK31_Audio (17)
+  m_EditorClassIdentifier: 
+  rusCaption: "\u0410\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C
+    \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430, \u0436\u0438\u0437\u043D\u044C
+    \u043A\u0430\u0442\u0435\u0440\u0430"
+  engCaption: 'Relevance of the monument, life of the boat '
+  ico: {fileID: 21300000, guid: 55a2a5bd822b8594aa8311aebbacf22d, type: 3}
+  rusClip: {fileID: 8300000, guid: 87163629cb47b3848a0eb50c15135896, type: 3}
+  engClip: {fileID: 8300000, guid: 56082cf2d88cfce45b1a09e192488229, type: 3}

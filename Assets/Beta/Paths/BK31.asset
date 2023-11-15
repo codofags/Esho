@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0443571772cc6a4ba1d8693e429cf31, type: 3}
+  m_Name: BK31
+  m_EditorClassIdentifier: 
+  pathName:
+    translates:
+    - language: 1
+      text: "\u0412\u043E\u043B\u0436\u0441\u043A\u0430\u044F \u0432\u043E\u0435\u043D\u043D\u0430\u044F
+        \u0444\u043B\u043E\u0442\u0438\u043B\u0438\u044F"
+    - language: 2
+      text: The Volga military flotilla
+  duration:
+    translates:
+    - language: 1
+      text: "2 \u0447\u0430\u0441\u0430"
+    - language: 2
+      text: 2 hours
+  _rusObjectCount: "13 \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u0432"
+  _engObjectCount: 13 objects
+  isAR: 1
+  searchKeys:
+  - 
+  sprites:
+  - {fileID: 21300000, guid: 8a23b3c3fe4ba324d95c0c169f1ff756, type: 3}
+  - {fileID: 21300000, guid: 17dac66e5d6321b4f9e374db2d2c18d5, type: 3}
+  - {fileID: 21300000, guid: 4d959b2f8e94c4e4297c64ea958875d9, type: 3}
+  points:
+  - {fileID: 11400000, guid: 1e6b2b4b05382ed40bd12797af56ea26, type: 2}
+  - {fileID: 11400000, guid: 10b0ca3f0ba69544cabded57d82783d8, type: 2}
+  content:
+  - {fileID: 11400000, guid: 432a0faeb57d1b0498ec5ce1f2a9facb, type: 2}
+  mapSprite: {fileID: 21300000, guid: 7df0637e4862dbe4780d520277d16946, type: 3}

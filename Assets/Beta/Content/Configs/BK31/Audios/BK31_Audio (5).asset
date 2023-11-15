@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7017995b6484742b94d61c33c4bc79, type: 3}
+  m_Name: BK31_Audio (5)
+  m_EditorClassIdentifier: 
+  rusCaption: "\u041E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D\u0438\u0435"
+  engCaption: 'Discovery '
+  ico: {fileID: 21300000, guid: 1c4d8d5f099802a45bab631077a3221b, type: 3}
+  rusClip: {fileID: 8300000, guid: 147667396e82bcb44b314c370aa1a2f8, type: 3}
+  engClip: {fileID: 8300000, guid: 6614334313dc34e4e982adb28284ae4a, type: 3}

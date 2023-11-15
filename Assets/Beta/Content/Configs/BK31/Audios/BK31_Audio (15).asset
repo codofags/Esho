@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7017995b6484742b94d61c33c4bc79, type: 3}
+  m_Name: BK31_Audio (15)
+  m_EditorClassIdentifier: 
+  rusCaption: "\u041F\u0430\u043C\u044F\u0442\u043D\u0438\u043A \u0438 \u0435\u0433\u043E
+    \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\u0442\u0438 <br>(\u0447\u0430\u0441\u0442\u044C
+    \u043F\u0435\u0440\u0432\u0430\u044F)"
+  engCaption: 'Monument and its features <br>(part one)  '
+  ico: {fileID: 21300000, guid: 9aceaac86b64a1549bb98505022d025c, type: 3}
+  rusClip: {fileID: 8300000, guid: 2509fbb3c43c8a1419753cbbd2078a97, type: 3}
+  engClip: {fileID: 8300000, guid: 6047e4876f3833a449fc03feca4b6760, type: 3}
